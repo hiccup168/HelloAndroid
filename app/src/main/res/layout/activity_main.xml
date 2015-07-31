@@ -11,7 +11,7 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_weight="1"
-        android:text="1"
+        android:text="red"
         android:textAlignment="center"
         android:background="#FF0000"/>
 
@@ -20,7 +20,7 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_weight="1"
-        android:text="2"
+        android:text="green"
         android:textAlignment="center"
         android:background="#00FF00"/>
 
